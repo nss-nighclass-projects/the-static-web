@@ -17,7 +17,7 @@ touch articles.css
 
 ## Requirements
 
-Link your new CSS file to your already existing . For each article on your blog page, you need to have the following things to be unique.
+Link your new CSS file to your already existing index.html file. For each article on your blog page, you need to have the following things to be unique.
 
 1. A different background color.
 1. A different font family.
