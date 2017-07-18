@@ -4,17 +4,6 @@
 
 > :warning: This exercise requires you to have completed the [Interesting Articles: Part 1 (HTML)](SW_HTML_ARTICLES_01.md) exercise
 
-## Setup
-
-##### You will be using the same GitHub repository for this exercise as you did for [Interesting Articles: Part 1 (HTML)](SW_HTML_ARTICLES_01.md). Create a new feature branch for adding these styles.
-
-These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below. It doesn't matter what directory you are currently in.
-
-```bash
-cd ~/workspace/exercises/thestaticweb/articles
-touch articles.css
-```
-
 ## Requirements
 
 Link your new CSS file to your already existing index.html file. For each article on your blog page, you need to have the following things to be unique.
